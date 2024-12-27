@@ -1,0 +1,13 @@
+torch==1.13.0
+torchvision==0.14.0
+patchify
+torchsummary
+compimg
+torchxrayvision
+ml_collections
+matplotlib
+scikit-learn
+opencv-python
+efficientnet_pytorch
+torchmetrics
+albumentations==1.0.3
