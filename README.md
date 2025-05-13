@@ -39,12 +39,13 @@ Schematic diagram of the proposed TFKT V2 method. During the first phase, the Ef
 
 ---
 ## BibTeX
-Kazi Ramisa Rifa, Md Atik Ahamed, Jie Zhang, Abdullah Imran
+   ```bash
 @inproceedings{rifa2025tfktv2,
   title     = {TFKT V2: Task-Focused Knowledge Transfer from Natural Images for Computed Tomography Perceptual Image Quality Assessment},
   author    = {Rifa, Kazi Ramisa and Ahmed, Md Atik and Zhang, Jie and Imran, Abdullah-Al-Zubaer},
   booktitle = {Journal of Medical Imaging},
   year      = {2025},
 }
+   ```
 
 Feel free to reach out if you encounter any issues or have questions!
