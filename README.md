@@ -40,7 +40,7 @@ Schematic diagram of the proposed TFKT V2 method. During the first phase, the Ef
 ---
 ## BibTeX
    ```bash
-@inproceedings{rifa2025tfktv2,
+@article{rifa2025tfktv2,
   title     = {TFKT V2: Task-Focused Knowledge Transfer from Natural Images for Computed Tomography Perceptual Image Quality Assessment},
   author    = {Rifa, Kazi Ramisa and Ahmed, Md Atik and Zhang, Jie and Imran, Abdullah-Al-Zubaer},
   booktitle = {Journal of Medical Imaging},
